@@ -1,6 +1,5 @@
-3.OBLOADER=OBLOADER
-2.obloader-user-guide=用户指南
-4.obloader-data-processing=数据处理
-4.OBDUMPER=OBDUMPER
-2.obdumper-user-guide=用户指南
-4.obdumper-data-processing=数据处理
+4.deployment-guide=部署导数工具
+5.OBLOADER=使用 OBLOADER
+3.obloader-data-processing=数据处理
+6.OBDUMPER=使用 OBDUMPER
+3.obdumper-data-processing=数据处理
