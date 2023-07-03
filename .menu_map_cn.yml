@@ -1,6 +1,6 @@
-4.deployment-guide=使用前准备
-5.OBLOADER=使用 OBLOADER
-3.obloader-data-processing=数据处理
-6.OBDUMPER=使用 OBDUMPER
-3.obdumper-data-processing=数据处理
-9.obloaderobdumper-rn=版本发布记录
+400.deployment-guide=使用前准备
+500.OBLOADER=使用 OBLOADER
+300.obloader-data-processing=数据处理
+600.OBDUMPER=使用 OBDUMPER
+300.obdumper-data-processing=数据处理
+900.obloaderobdumper-rn=版本发布记录
