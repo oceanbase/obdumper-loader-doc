@@ -1,6 +1,6 @@
-2.OBLOADER=OBLOADER
-2.obloader-user-guide=用户指南
-5.obloader-data-processing=数据处理
-3.OBDUMPER=OBDUMPER
-2.obdumper-user-guide=用户指南
-4.obdumper-data-processing=数据处理
+200.OBLOADER=OBLOADER
+200.obloader-user-guide=用户指南
+500.obloader-data-processing=数据处理
+300.OBDUMPER=OBDUMPER
+200.obdumper-user-guide=用户指南
+400.obdumper-data-processing=数据处理

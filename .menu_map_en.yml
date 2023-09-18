@@ -1,6 +1,6 @@
-2.OBLOADER=OBLOADER
-2.obloader-user-guide=User Guide
-5.obloader-data-processing=Data processing
-3.OBDUMPER=OBDUMPER
-2.obdumper-user-guide=User Guide
-4.obdumper-data-processing=Data 
+200.OBLOADER=OBLOADER
+200.obloader-user-guide=User Guide
+500.obloader-data-processing=Data processing
+300.OBDUMPER=OBDUMPER
+200.obdumper-user-guide=User Guide
+400.obdumper-data-processing=Data
