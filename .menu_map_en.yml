@@ -1,7 +1,7 @@
 400.deployment-guide=Preparations
-500.OBLOADER=User Guide (OBLOADER)
+500.OBLOADER=Import data
 300.obloader-data-processing=Data processing
-600.OBDUMPER=User Guide (OBDUMPER)
+600.OBDUMPER=Export data
 300.obdumper-data-processing=Data processing
 1000.obloaderobdumper-rn=Release Note
 100.obloaderobdumper-rn=Release Note
